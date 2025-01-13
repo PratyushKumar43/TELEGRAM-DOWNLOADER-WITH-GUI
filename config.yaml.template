@@ -1,0 +1,21 @@
+api_hash: "your_api_hash_here"
+api_id: your_api_id_here
+chat_id: your_chat_id_here
+file_formats:
+  audio:
+  - all
+  document:
+  - all
+  video:
+  - all
+ids_to_retry: []
+last_read_message_id: 0
+media_types:
+- audio
+- document
+- photo
+- video
+- voice
+phone_number: "your_phone_number_here"
+download_settings:
+  chunk_size: 2097152  # 2MB chunks
