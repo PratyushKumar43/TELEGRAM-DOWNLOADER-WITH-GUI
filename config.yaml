@@ -1,0 +1,24 @@
+api_hash: 1eb79400311aa1ac8fe112195c31789f
+api_id: 22099345
+chat_id: -1001598390904
+file_formats:
+  audio:
+  - all
+  document:
+  - all
+  video:
+  - all
+ids_to_retry: []
+last_read_message_id: 510
+media_types:
+- audio
+- document
+- photo
+- video
+- voice
+phone_number: '+919938083497'
+download_settings:
+  chunk_size: 2097152  # 2MB chunks
+  concurrent_downloads: 4
+  retry_count: 3
+  retry_delay: 5
