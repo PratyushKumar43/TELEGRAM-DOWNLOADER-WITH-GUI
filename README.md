@@ -16,9 +16,9 @@ A Python-based GUI application to download media files from Telegram channels an
 ## 🛠️ Installation
 
 ```bash
-$ git clone https://github.com/PratyushKumar43/telegram-media-downloader.git
-$ cd telegram-media-downloader
-$ pip install -r requirements.txt
+$ git clone https://github.com/PratyushKumar43/TELEGRAM-DOWNLOADER-WITH-GUI.git
+$ cd telegram_media_downloader
+$ pip3 install -r requirements.txt
 ```
 
 ## ⚙️ Setup
